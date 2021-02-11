@@ -1,12 +1,12 @@
 {
     "name": "robs007/twiliostub",
     "description": ":package_description",
-    "license": "license",
+    "license": "proprietary",
     "authors": [
         {
-            "name": "author name",
-            "email": "author email",
-            "homepage": "author homepage"
+            "name": "Rob Szabo",
+            "email": "rszabo@crowleyauto.net",
+            "homepage": "https://github.com/robs007"
         }
     ],
     "homepage": "https://github.com/robs007/twiliostub",
